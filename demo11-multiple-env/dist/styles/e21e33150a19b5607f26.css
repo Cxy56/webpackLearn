@@ -1,0 +1,16 @@
+/*!************************************************************************************************************************************************!*\
+  !*** css ../node_modules/_css-loader@6.5.1@css-loader/dist/cjs.js!../node_modules/_less-loader@10.2.0@less-loader/dist/cjs.js!./src/style.css ***!
+  \************************************************************************************************************************************************/
+.hello {
+  color: red;
+}
+
+/*!*************************************************************************************************************************************************!*\
+  !*** css ../node_modules/_css-loader@6.5.1@css-loader/dist/cjs.js!../node_modules/_less-loader@10.2.0@less-loader/dist/cjs.js!./src/style.less ***!
+  \*************************************************************************************************************************************************/
+body {
+  background-color: aliceblue;
+}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGVzL2UyMWUzMzE1MGExOWI1NjA3ZjI2LmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtFQUNFO0FBQ0Y7Ozs7O0FDQ0E7RUFDRTtBQUZGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vc3JjL3N0eWxlLmNzcyIsIndlYnBhY2s6Ly8vLi9zcmMvc3R5bGUubGVzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIuaGVsbG8ge1xuICBjb2xvcjogcmVkO1xufVxuIiwiQGNvbG9yOiBhbGljZWJsdWU7XG5cblxuYm9keSB7XG4gIGJhY2tncm91bmQtY29sb3I6IEBjb2xvcjtcbn1cbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/

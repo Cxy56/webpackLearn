@@ -1,0 +1,48 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add mini-css-extrat-plugin
+
+PATH: 
+  /usr/local/Homebrew/bin:/usr/local/Homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/Homebrew/bin:/usr/local/Homebrew/sbin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.16.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.npm.xiaojukeji.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)
+
+npm manifest: 
+  {
+    "name": "demo2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "css-loader": "^6.5.1",
+      "html-webpack-plugin": "^5.5.0",
+      "less": "^4.1.2",
+      "less-loader": "^10.2.0",
+      "style-loader": "^3.3.1",
+      "webpack": "^5.65.0",
+      "webpack-cli": "^4.9.1",
+      "webpack-dev-server": "^4.7.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
